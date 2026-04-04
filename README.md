@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-### 🌐 Redes Sociales
+### Social media
 <p align="left">
 <a href="https://www.instagram.com/jorgm_.s16/?h1=es">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
@@ -65,7 +65,7 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### Github stats
 
 
   
@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jorgmms/Jorgmms/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/Jorgmms/Jorgmms/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </p>
 
 ---
