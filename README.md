@@ -73,8 +73,7 @@
 </p>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Jorgmms/Jorgmms/master/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://raw.githubusercontent.com/Jorgmms/Jorgmms/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
 
 ---
