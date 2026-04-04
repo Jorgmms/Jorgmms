@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
 </p>
 
 ### Software and Tools
@@ -55,25 +54,20 @@
   <img src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-### Operating Systems
+### 🌐 Redes Sociales
 <p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
-  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<a href="https://www.instagram.com/jorgm_.s16/?h1=es">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
 </p>
 
-### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+---
+
+## 📊 Mis Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorgmms&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jorgmms&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
-## Check out my Social Media
-
-<a href= "https://www.instagram.com/jorgm_.s16/?h1=es">
-   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-     </a>
 
 
 
