@@ -63,11 +63,21 @@
 
 ---
 
-## 📊 Mis Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jorgmms&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="48%" />
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jorgmms&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Jorgmms/Jorgmms/master/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+---
 
 
 
